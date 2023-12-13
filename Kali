@@ -8,4 +8,4 @@ If run the `pwd` command in terminal, it will output the full path of current di
 └─$ pwd
 /home/kali
 
-In this example, the current working directory is "/home/kali". The output will show the absolute path to current location in the file system.
+In this example, the current working directory is "/home/kali". The output will show the absolute path to current location in the file system
