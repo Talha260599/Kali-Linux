@@ -1,0 +1,11 @@
+pwd command:
+
+Certainly! The `pwd` command stands for "print working directory." When run this command, it will display the current working directory (currently in) in the terminal.
+
+If run the `pwd` command in terminal, it will output the full path of current directory. For example:
+
+(kali㉿kali)-[~]
+└─$ pwd
+/home/kali
+
+In this example, the current working directory is "/home/kali". The output will show the absolute path to current location in the file system.
